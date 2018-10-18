@@ -1,3 +1,12 @@
 body {
     background-color: rgb(197, 92, 211);
+    font-family: google font
    }
+
+.social-media-button {
+    height: 2rem;
+  }
+
+  .footer {
+      text-align: center
+  }
